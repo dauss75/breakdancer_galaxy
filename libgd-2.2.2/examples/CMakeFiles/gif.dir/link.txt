@@ -1,1 +1,0 @@
-/usr/bin/cc      CMakeFiles/gif.dir/gif.c.o  -o ../Bin/gif -rdynamic ../Bin/libgd.so -lz -lpng -lz -lpng -ljpeg -Wl,-rpath,/home/pierre/project/libgd/Bin 
