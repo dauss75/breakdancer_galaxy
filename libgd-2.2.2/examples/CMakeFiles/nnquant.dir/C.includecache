@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pierre/project/libgd/examples/nnquant.c
+gd.h
+/home/pierre/project/libgd/examples/gd.h
+stdio.h
+-
+stdlib.h
+-
+
+src/gd.h
+stdlib.h
+-
+stdio.h
+-
+stdarg.h
+-
+gd_io.h
+src/gd_io.h
+gdfx.h
+src/gdfx.h
+
+src/gd_io.h
+stdio.h
+-
+
+src/gdfx.h
+

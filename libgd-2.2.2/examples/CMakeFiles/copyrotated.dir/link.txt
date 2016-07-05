@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/copyrotated.dir/copyrotated.c.o  -o ../Bin/copyrotated -rdynamic ../Bin/libgd.so -lm -lz -lpng -lz -lpng -ljpeg -Wl,-rpath,/home/pierre/project/libgd/Bin 

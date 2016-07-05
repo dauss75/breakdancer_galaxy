@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/arc.dir/arc.c.o  -o ../Bin/arc -rdynamic ../Bin/libgd.so -lz -lpng -lz -lpng -ljpeg -Wl,-rpath,/home/pierre/project/libgd/Bin 

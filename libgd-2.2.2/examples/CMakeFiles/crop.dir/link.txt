@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/crop.dir/crop.c.o  -o ../Bin/crop -rdynamic ../Bin/libgd.so -lz -lpng -lz -lpng -ljpeg -Wl,-rpath,/home/pierre/project/libgd/Bin 

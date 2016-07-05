@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/tgaread.dir/tgaread.c.o  -o ../Bin/tgaread -rdynamic ../Bin/libgd.so -lz -lpng -lz -lpng -ljpeg -Wl,-rpath,/home/pierre/project/libgd/Bin 
