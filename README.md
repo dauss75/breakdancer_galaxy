@@ -1,8 +1,9 @@
-# breakdancer for galaxy
+# breakdancer (version 1.4.5)for galaxy
 
-To make breakdancer install smooth in galaxy or a similiar platform, I have collected the missing perl modules and required files.  The changes are:
+Breakdancer in galaxy or a similiar platform: 
+This is a collection of essential files and missing perl modules:
 
-Added perl modules
+Perl modules
 - GD-2.46
 - GDGraph-1.52
 - GDGraph-histogram-1.1
