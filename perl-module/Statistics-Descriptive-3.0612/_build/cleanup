@@ -1,0 +1,5 @@
+do{ my $x = {
+       'blib' => 1,
+       'Statistics-Descriptive-*' => 1
+     };
+$x; }
