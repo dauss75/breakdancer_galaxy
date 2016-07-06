@@ -1,5 +1,4 @@
-# breakdancer (version 1.4.5)for galaxy
-
+# breakdancer for galaxy (version 1.4.5)
 Breakdancer in galaxy or a similiar platform: 
 This is a collection of essential files and missing perl modules:
 
@@ -9,4 +8,4 @@ Perl modules
 - GDGraph-histogram-1.1
 - GDTextUtil-0.86
 
-Modified bam2cfg.pl to match a module path
+bam2cfg.pl is modified to match a module structure
